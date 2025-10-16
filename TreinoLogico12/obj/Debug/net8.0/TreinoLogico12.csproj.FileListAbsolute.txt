@@ -1,0 +1,14 @@
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\bin\Debug\net8.0\TreinoLogico12.exe
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\bin\Debug\net8.0\TreinoLogico12.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\bin\Debug\net8.0\TreinoLogico12.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\bin\Debug\net8.0\TreinoLogico12.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\bin\Debug\net8.0\TreinoLogico12.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\TreinoLogico12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\TreinoLogico12.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\TreinoLogico12.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\TreinoLogico12.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\TreinoLogico12.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\refint\TreinoLogico12.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\TreinoLogico12.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\TreinoLogico12.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\C#\AplicativoConsole\TreinoLogica01\TreinoLogico12\obj\Debug\net8.0\ref\TreinoLogico12.dll
