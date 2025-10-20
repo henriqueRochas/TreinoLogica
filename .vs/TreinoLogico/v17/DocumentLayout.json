@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10FC6364-C383-4146-80B0-9C5810B433E0}|TreinoLogico18\\TreinoLogico18.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FC6364-C383-4146-80B0-9C5810B433E0}|TreinoLogico18\\TreinoLogico18.csproj|solutionrelative:treinologico18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{482D7DAA-7981-417D-B71A-40A12C36ECEA}|TreinoLogico13\\TreinoLogico13.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{482D7DAA-7981-417D-B71A-40A12C36ECEA}|TreinoLogico13\\TreinoLogico13.csproj|solutionrelative:treinologico13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7666A9-6FAA-472A-8B7F-A3F24A884A58}|TreinoLogico14\\TreinoLogico14.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7666A9-6FAA-472A-8B7F-A3F24A884A58}|TreinoLogico14\\TreinoLogico14.csproj|solutionrelative:treinologico14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D350AB61-55D5-4DF4-9E22-F11207644E2E}|TreinoLogico15\\TreinoLogico15.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D350AB61-55D5-4DF4-9E22-F11207644E2E}|TreinoLogico15\\TreinoLogico15.csproj|solutionrelative:treinologico15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31DFD418-AB04-418A-B34D-24F7787012FF}|TreinoLogico20\\TreinoLogico20.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DFD418-AB04-418A-B34D-24F7787012FF}|TreinoLogico20\\TreinoLogico20.csproj|solutionrelative:treinologico20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC6F11FF-BF52-476D-B4A5-502489AFB52E}|TreinoLogica01\\TreinoLogica01.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologica01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC6F11FF-BF52-476D-B4A5-502489AFB52E}|TreinoLogica01\\TreinoLogica01.csproj|solutionrelative:treinologica01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E48E69-4910-427C-A91A-C69C072DAAA9}|TreinoLogico16\\TreinoLogico16.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E48E69-4910-427C-A91A-C69C072DAAA9}|TreinoLogico16\\TreinoLogico16.csproj|solutionrelative:treinologico16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{129D55BD-37E9-45CE-A1E2-34467F9B1BD5}|TreinoLogico19\\TreinoLogico19.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129D55BD-37E9-45CE-A1E2-34467F9B1BD5}|TreinoLogico19\\TreinoLogico19.csproj|solutionrelative:treinologico19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92819B36-738D-4A4C-BE5E-A69B12C37240}|TreinoLogico17\\TreinoLogico17.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92819B36-738D-4A4C-BE5E-A69B12C37240}|TreinoLogico17\\TreinoLogico17.csproj|solutionrelative:treinologico17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{482D7DAA-7981-417D-B71A-40A12C36ECEA}|TreinoLogico13\\TreinoLogico13.csproj|c:\\users\\henri\\onedrive\\documents\\github\\treinologica\\treinologico13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482D7DAA-7981-417D-B71A-40A12C36ECEA}|TreinoLogico13\\TreinoLogico13.csproj|solutionrelative:treinologico13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -52,66 +36,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico18\\Program.cs",
-              "RelativeDocumentMoniker": "TreinoLogico18\\Program.cs",
-              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico18\\Program.cs",
-              "RelativeToolTip": "TreinoLogico18\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico20\\Program.cs",
+              "RelativeDocumentMoniker": "TreinoLogico20\\Program.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico20\\Program.cs",
+              "RelativeToolTip": "TreinoLogico20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T21:56:00.058Z",
+              "WhenOpened": "2025-10-20T16:37:36.269Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico17\\Program.cs",
-              "RelativeDocumentMoniker": "TreinoLogico17\\Program.cs",
-              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico17\\Program.cs",
-              "RelativeToolTip": "TreinoLogico17\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T21:04:37.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico16\\Program.cs",
-              "RelativeDocumentMoniker": "TreinoLogico16\\Program.cs",
-              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico16\\Program.cs",
-              "RelativeToolTip": "TreinoLogico16\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T18:08:25.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico15\\Program.cs",
-              "RelativeDocumentMoniker": "TreinoLogico15\\Program.cs",
-              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico15\\Program.cs",
-              "RelativeToolTip": "TreinoLogico15\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T17:32:04.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico14\\Program.cs",
-              "RelativeDocumentMoniker": "TreinoLogico14\\Program.cs",
-              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico14\\Program.cs",
-              "RelativeToolTip": "TreinoLogico14\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico19\\Program.cs",
+              "RelativeDocumentMoniker": "TreinoLogico19\\Program.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico19\\Program.cs",
+              "RelativeToolTip": "TreinoLogico19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T15:47:51.301Z"
+              "WhenOpened": "2025-10-20T15:34:30.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogica01\\Program.cs",
               "RelativeDocumentMoniker": "TreinoLogica01\\Program.cs",
@@ -123,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico13\\Program.cs",
               "RelativeDocumentMoniker": "TreinoLogico13\\Program.cs",
@@ -131,8 +79,7 @@
               "RelativeToolTip": "TreinoLogico13\\Program.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T14:36:41.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T14:36:41.6Z"
             }
           ]
         }
