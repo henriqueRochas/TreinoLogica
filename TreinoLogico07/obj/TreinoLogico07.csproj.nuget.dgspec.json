@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico07\\TreinoLogico07.csproj": {}
+    "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico07\\TreinoLogico07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico07\\TreinoLogico07.csproj": {
+    "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico07\\TreinoLogico07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico07\\TreinoLogico07.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico07\\TreinoLogico07.csproj",
         "projectName": "TreinoLogico07",
-        "projectPath": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico07\\TreinoLogico07.csproj",
+        "projectPath": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico07\\TreinoLogico07.csproj",
         "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico07\\obj\\",
+        "outputPath": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

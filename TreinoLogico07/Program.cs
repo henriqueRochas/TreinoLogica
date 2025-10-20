@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace TreinoLogica01;
+namespace TreinoLogico13;
 
 /*
  

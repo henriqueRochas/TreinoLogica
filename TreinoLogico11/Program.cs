@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 
-namespace TreinoLogica01;
+namespace TreinoLogico13;
 
 class Program
 {

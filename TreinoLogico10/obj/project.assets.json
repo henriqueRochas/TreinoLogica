@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico10\\TreinoLogico10.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico10\\TreinoLogico10.csproj",
       "projectName": "TreinoLogico10",
-      "projectPath": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico10\\TreinoLogico10.csproj",
+      "projectPath": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico10\\TreinoLogico10.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\Estudos\\C#\\AplicativoConsole\\TreinoLogica01\\TreinoLogico10\\obj\\",
+      "outputPath": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogico10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

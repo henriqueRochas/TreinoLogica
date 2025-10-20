@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace TreinoLogica01;
+namespace TreinoLogica16;
 
 class Program
 {
