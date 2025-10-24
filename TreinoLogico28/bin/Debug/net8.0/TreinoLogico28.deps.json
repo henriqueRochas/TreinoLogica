@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TreinoLogico28/1.0.0": {
+        "runtime": {
+          "TreinoLogico28.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TreinoLogico28/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
