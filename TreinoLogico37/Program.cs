@@ -7,6 +7,7 @@
             int n = int.Parse(Console.ReadLine());
 
             int[] sequencia = new int[n];
+
             sequencia[0] = 1;
 
             if (n >= 2)

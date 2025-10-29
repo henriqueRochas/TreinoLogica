@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace TreinoLogico38
+﻿namespace TreinoLogico38
 {
     class Program
     {
