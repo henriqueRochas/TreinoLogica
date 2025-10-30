@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreinoLogica01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a0ff4cf0fba3b48f6c0b749587c02915059843")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f506288774b8b9361103e5ffd92d932eb08dff")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreinoLogica01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreinoLogica01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
