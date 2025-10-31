@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "TreinoLogica01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TreinoLogica01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TreinoLogica01.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TreinoLogica01/1.0.0": {
+      "type": "project",
+      "path": "../TreinoLogica01/TreinoLogica01.csproj",
+      "msbuildProject": "../TreinoLogica01/TreinoLogica01.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "TreinoLogica01 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\henri\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogica01\\TreinoLogica01.csproj": {
+              "projectPath": "C:\\Users\\henri\\OneDrive\\Documents\\GitHub\\TreinoLogica\\TreinoLogica01\\TreinoLogica01.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
