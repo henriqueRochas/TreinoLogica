@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\bin\Debug\net8.0\TreinoLogico62.exe
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\bin\Debug\net8.0\TreinoLogico62.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\bin\Debug\net8.0\TreinoLogico62.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\bin\Debug\net8.0\TreinoLogico62.dll
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\bin\Debug\net8.0\TreinoLogico62.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.dll
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\refint\TreinoLogico62.dll
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\TreinoLogico62.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\TreinoLogica\TreinoLogico62\obj\Debug\net8.0\ref\TreinoLogico62.dll
