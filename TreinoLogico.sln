@@ -165,6 +165,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinoLogico80", "TreinoLog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinoLogico81", "TreinoLogico81\TreinoLogico81.csproj", "{4632E49E-1127-4E8F-BCF1-CA799C7798D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinoLogico82", "TreinoLogico82\TreinoLogico82.csproj", "{15699AD8-6433-45B3-B6BF-E07F9E1B7808}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -495,6 +497,10 @@ Global
 		{4632E49E-1127-4E8F-BCF1-CA799C7798D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4632E49E-1127-4E8F-BCF1-CA799C7798D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4632E49E-1127-4E8F-BCF1-CA799C7798D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15699AD8-6433-45B3-B6BF-E07F9E1B7808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15699AD8-6433-45B3-B6BF-E07F9E1B7808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15699AD8-6433-45B3-B6BF-E07F9E1B7808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15699AD8-6433-45B3-B6BF-E07F9E1B7808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
